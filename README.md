@@ -7,7 +7,9 @@ Copyright Thomas Choi, University of Southern California. The data may be used f
 *[WiDeS_Choi2021Using] T. Choi et al., “Open-Source Cell-Free Massive MIMO Channel Data 2020”. URL: https://wides.usc.edu/research_matlab.html*
 
 ## Measurement Data Descriptions 
-The measurement was conducted by using a drone with a single antenna as a transmitter and a cylidrical array with 128 antennas as a receiver.
+The measurement was conducted at the University of Southern California (University Park Campus). 
+
+A drone with a single antenna acted as a transmitter and a cylidrical array with 128 antennas acted as a receiver.
 
 The array contains 16 different linear array forming a cylinder, where each array contains 4 patch elements. 
 
