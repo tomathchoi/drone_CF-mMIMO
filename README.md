@@ -47,4 +47,4 @@ UE3: 34.02346551661122, -118.28772482646559
 
 UE4: 34.02349858327912, -118.287700908681
 
-*[Gomez2021Air] J. Gomez-Ponce et al., "Air-to-Ground Directional Channel Sounder With 64-antenna Dual-polarized Cylindrical Array," 	arXiv:2103.09135, 2021.*
+*[Gomez2021Air] J. Gomez-Ponce et al., "Air-to-Ground Directional Channel Sounder With 64-antenna Dual-polarized Cylindrical Array," arXiv preprint arXiv:2103.09135, 2021.*
