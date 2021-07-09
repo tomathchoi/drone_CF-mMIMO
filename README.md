@@ -19,6 +19,7 @@ Each trajectory was divided into 6 parts, due to drone battery issues.
 
 We used 46 MHz bandwidth, with 2301 subcarriers, around 3.5 GHz center frequency.
 
+
 There are 4 zipped folders, each containing channel data for each UE.
 Each zipped folder contains 6 files, corresponding to channel data at 6 different parts of the trajectory.
 The dimension of each file is (# of drone positions) x (128 antenna elements) x (2301 subcarriers). 
