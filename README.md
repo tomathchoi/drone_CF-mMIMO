@@ -51,4 +51,4 @@ UE4: 34.02349858327912, -118.287700908681
 
 Any further questions regarding the dataset can be emailed to Thomas Choi, choit@usc.edu, and he will respond as soon as possible.
 
-*[Gomez2021Air] J. Gomez-Ponce et al., "Air-to-Ground Directional Channel Sounder With 64-antenna Dual-polarized Cylindrical Array," arXiv preprint arXiv:2103.09135, 2021.*
+*[[Gomez2021Air](https://arxiv.org/abs/2103.09135)] J. Gomez-Ponce et al., "Air-to-Ground Directional Channel Sounder With 64-antenna Dual-polarized Cylindrical Array," arXiv preprint arXiv:2103.09135, 2021.*
