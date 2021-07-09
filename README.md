@@ -21,9 +21,13 @@ We used 46 MHz bandwidth, with 2301 subcarriers, around 3.5 GHz center frequency
 
 
 There are 4 zipped folders, each containing channel data for each UE.
+
 Each zipped folder contains 6 files, corresponding to channel data at 6 different parts of the trajectory.
+
 The dimension of each file is (# of drone positions) x (128 antenna elements) x (2301 subcarriers). 
 
 The GPS files contain latitude and longitude information of the drone for 4 different UEs, at both 35m and 70m height.
+
 For each UE at one drone height, there is (# of drone positions) x 2 data, where 2 corresponds to latitude and longitude of the drone.
+
 For multi-user MIMO studies, the AP (drone) locations must be synchronized for different UEs using this GPS information.
