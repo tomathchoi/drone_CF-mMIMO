@@ -9,19 +9,21 @@ Copyright Thomas Choi, University of Southern California. The data may be used f
 ## Measurement Data Descriptions 
 The measurement was conducted by using a drone with a single antenna as a transmitter and a cylidrical array with 128 antennas as a receiver.
 
-Each spatial point where the drone passes acts as a single-antenna access point (AP) and the array acts as a user equipment (UE).
-
 The array contains 16 different linear array forming a cylinder, where each array contains 4 patch elements. 
 
 Each patch element has two different ports (V-pol and H-pol), hence 8 ports per linear array.
+
+We used 46 MHz bandwidth, with 2301 subcarriers, around 3.5 GHz center frequency.
+
+More details of the channel sounder is described in [Gomez2021air]. 
+
+Each spatial point where the drone passes acts as a single-antenna access point (AP) and the array acts as a user equipment (UE).
 
 The drone flew the same trajectory twice per each UE location, at 35m height and 70m height.
 
 There were 4 UE locations on campus, hence the trajectory was repeated 8 times (4 UEs, 2 different heights).
 
 Each trajectory was divided into 6 parts, due to drone battery issues.
-
-We used 46 MHz bandwidth, with 2301 subcarriers, around 3.5 GHz center frequency.
 
 There are 4 zipped folders, each containing channel data for each UE.
 
@@ -44,3 +46,5 @@ UE2: 34.0226219987896, -118.28716839187055
 UE3: 34.02346551661122, -118.28772482646559
 
 UE4: 34.02349858327912, -118.287700908681
+
+*[Gomez2021Air] J. Gomez-Ponce et al., "Air-to-Ground Directional Channel Sounder With 64-antenna Dual-polarized Cylindrical Array," 	arXiv:2103.09135, 2021.*
