@@ -2,11 +2,11 @@
 
 This repo contains open-source channel measurement data for research and development purposes.
 
-Copyright Thomas Choi, University of Southern California. The data may be used for non-commercial purposes only. Redistribution prohibited. If you use this data for results presented in research papers, please cite as follows: Data were obtained from [Choi2021Using], whose data are available at [WiDeS_Choi2021Using].
+Copyright Thomas Choi, University of Southern California. The data may be used for non-commercial purposes only. Redistribution prohibited. If you use this data for results presented in research papers, please cite as follows: Data were obtained from [[Choi2021Using](https://arxiv.org/abs/2106.15276)], whose data are available at [[WiDeS_Choi2021Using](https://wides.usc.edu/research_matlab.html)].
 
 *[[Choi2021Using](https://arxiv.org/abs/2106.15276)] T. Choi et al., "Using a drone sounder to measure channels for cell-free massive MIMO systems," arXiv preprint arXiv:2106.15276, 2021.*
 
-*[WiDeS_Choi2021Using] T. Choi et al., “Open-Source Cell-Free Massive MIMO Channel Data 2020”. URL: https://wides.usc.edu/research_matlab.html*
+*[[WiDeS_Choi2021Using](https://wides.usc.edu/research_matlab.html)] T. Choi et al., “Open-Source Cell-Free Massive MIMO Channel Data 2020”. URL: https://wides.usc.edu/research_matlab.html*
 
 ## Measurement Data Descriptions 
 The measurement was conducted at the University of Southern California (University Park Campus). 
@@ -19,7 +19,7 @@ Each patch element has two different ports (V-pol and H-pol), hence 8 ports per 
 
 We used 46 MHz bandwidth, with 2301 subcarriers, around 3.5 GHz center frequency.
 
-More details of the channel sounder is described in [Gomez2021air]. 
+More details of the channel sounder is described in [[Gomez2021Air](https://arxiv.org/abs/2103.09135)]. 
 
 Each spatial point where the drone passes acts as a single-antenna access point (AP) and the array acts as a user equipment (UE).
 
