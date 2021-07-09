@@ -31,3 +31,13 @@ The GPS files contain latitude and longitude information of the drone for 4 diff
 For each UE at one drone height, there is (# of drone positions) x 2 data, where 2 corresponds to latitude and longitude of the drone.
 
 For multi-user MIMO studies, the AP (drone) locations must be synchronized for different UEs using this GPS information.
+
+The latitude and longitude of UE1 to UE4 are:
+
+UE1: 34.02105616098113, -118.2881572051255
+
+UE2: 34.0226219987896, -118.28716839187055
+
+UE3: 34.02346551661122, -118.28772482646559
+
+UE4: 34.02349858327912, -118.287700908681
