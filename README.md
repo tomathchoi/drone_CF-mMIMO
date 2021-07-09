@@ -11,6 +11,10 @@ The measurement was conducted by using a drone with a single antenna as a transm
 
 Each spatial point where the drone passes acts as a single-antenna access point (AP) and the array acts as a user equipment (UE).
 
+The array contains 16 different linear array forming a cylinder, where each array contains 4 patch elements. 
+
+Each patch element has two different ports (V-pol and H-pol), hence 8 ports per linear array.
+
 The drone flew the same trajectory twice per each UE location, at 35m height and 70m height.
 
 There were 4 UE locations on campus, hence the trajectory was repeated 8 times (4 UEs, 2 different heights).
@@ -18,7 +22,6 @@ There were 4 UE locations on campus, hence the trajectory was repeated 8 times (
 Each trajectory was divided into 6 parts, due to drone battery issues.
 
 We used 46 MHz bandwidth, with 2301 subcarriers, around 3.5 GHz center frequency.
-
 
 There are 4 zipped folders, each containing channel data for each UE.
 
