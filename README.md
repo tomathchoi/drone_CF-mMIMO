@@ -1,6 +1,6 @@
 # Cell-Free Massive MIMO Channel Measurement Data
 
-This is an open-source channel measurement data for research and development purposes.
+This repo contains open-source channel measurement data for research and development purposes.
 
 Copyright Thomas Choi, University of Southern California. The data may be used for non-commercial purposes only. Redistribution prohibited. If you use this data for results presented in research papers, please cite as follows: Data were obtained from [Choi2021Using], whose data are available at [WiDeS_Choi2021Using].
 
