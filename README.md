@@ -1,6 +1,7 @@
 # Cell-Free Massive MIMO Channel Measurement Data
 
-[UE1-AP35m](https://public-ultralab.s3.us-west-1.amazonaws.com/public-ultralab/CF-mMIMO%3A+drone+measurement+2020/H_AP35m_UE1.zip)
+1. [AP35m-UE1](https://public-ultralab.s3.us-west-1.amazonaws.com/public-ultralab/CF-mMIMO%3A+drone+measurement+2020/H_AP35m_UE1.zip)
+2. [AP70m-UE1](https://public-ultralab.s3.us-west-1.amazonaws.com/public-ultralab/CF-mMIMO%3A+drone+measurement+2020/H_AP70m_UE1.zip)
 
 This repo contains open-source channel measurement data for research and development purposes.
 
