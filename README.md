@@ -7,10 +7,6 @@ This repo contains open-source channel measurement data for research and develop
 
 Copyright Thomas Choi, University of Southern California. The data may be used for non-commercial purposes only. Redistribution prohibited. If you use this data for results presented in research papers, please cite as follows: Data were obtained from [[Choi2021Using](https://arxiv.org/abs/2106.15276)], whose data are available at [[WiDeS_Choi2021Using](https://wides.usc.edu/research_matlab.html)].
 
-*[[Choi2021Using](https://arxiv.org/abs/2106.15276)] T. Choi et al., "Using a drone sounder to measure channels for cell-free massive MIMO systems," arXiv preprint arXiv:2106.15276, 2021.*
-
-*[[WiDeS_Choi2021Using](https://wides.usc.edu/research_matlab.html)] T. Choi et al., “Open-Source Cell-Free Massive MIMO Channel Data 2020”. URL: https://wides.usc.edu/research_matlab.html*
-
 ## Measurement Data Descriptions 
 The measurement was conducted at the University of Southern California (University Park Campus). 
 
@@ -55,6 +51,10 @@ UE3: 34.02346551661122, -118.28772482646559
 UE4: 34.02349858327912, -118.287700908681
 
 Any further questions regarding the dataset can be emailed to Thomas Choi, choit@usc.edu, and he will respond as soon as possible.
+
+*[[Choi2021Using](https://arxiv.org/abs/2106.15276)] T. Choi et al., "Using a drone sounder to measure channels for cell-free massive MIMO systems," arXiv preprint arXiv:2106.15276, 2021.*
+
+*[[WiDeS_Choi2021Using](https://wides.usc.edu/research_matlab.html)] T. Choi et al., “Open-Source Cell-Free Massive MIMO Channel Data 2020”. URL: https://wides.usc.edu/research_matlab.html*
 
 *[[Gomez2021Air](https://arxiv.org/abs/2103.09135)] J. Gomez-Ponce et al., "Air-to-Ground Directional Channel Sounder With 64-antenna Dual-polarized Cylindrical Array," arXiv preprint arXiv:2103.09135, 2021.*
 
