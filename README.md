@@ -4,6 +4,7 @@
 2. [AP70m-UE1](https://public-ultralab.s3.us-west-1.amazonaws.com/public-ultralab/CF-mMIMO%3A+drone+measurement+2020/H_AP70m_UE1.zip)
 3. [AP35m-UE2](https://public-ultralab.s3.us-west-1.amazonaws.com/public-ultralab/CF-mMIMO%3A+drone+measurement+2020/H_AP35m_UE2.zip)
 4. [AP70m-UE2](https://public-ultralab.s3.us-west-1.amazonaws.com/public-ultralab/CF-mMIMO%3A+drone+measurement+2020/H_AP70m_UE2.zip)
+5. [AP35m-UE3](https://public-ultralab.s3.us-west-1.amazonaws.com/public-ultralab/CF-mMIMO%3A+drone+measurement+2020/H_AP35m_UE3.zip)
 
 This repo contains open-source channel measurement data for research and development purposes. (Upload still in progress)
 
